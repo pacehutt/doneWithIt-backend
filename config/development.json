@@ -1,4 +1,7 @@
 {
-  "assetsBaseUrl": "http://192.168.71.194:9000/assets/",
+  
+    "assetsBaseUrl": "https://donewithit-backend-production.up.railway.app/assets/",
+    
+  
   "port": 9000
 }
